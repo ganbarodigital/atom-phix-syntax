@@ -1,3 +1,4 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 0.1.0 - Tue 29th December 2015
+
+* Initial release
+* Primary focus is PHP support
