@@ -1,0 +1,15 @@
+{
+  "name": "phix-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "The Phix theme, ported to Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/atom-phix-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
