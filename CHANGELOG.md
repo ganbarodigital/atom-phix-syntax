@@ -1,3 +1,9 @@
+## 1.0.0 - Fri 1st June 2018
+
+* Added explicit JSON syntax support
+* Fixed several PHP syntax highlighting regressions
+* Updated to support removal of shadow DOM from Atom
+
 ## 0.1.1 - Tue 29th December 2015
 
 * Fixes for publishing to Atom.io
