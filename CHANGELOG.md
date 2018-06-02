@@ -1,3 +1,7 @@
+## 1.1.0 - Sat 2nd June 2018
+
+* Tidied up YAML syntax support
+
 ## 1.0.0 - Fri 1st June 2018
 
 * Added explicit JSON syntax support
